@@ -217,6 +217,6 @@ option {
 
 span.warning {
 	color: red;
-	font-size: 1px;
+	font-size: 50%;
 	position: absolute;
 }
